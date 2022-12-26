@@ -1,5 +1,9 @@
 # km-python
-封装了快猫视频相关接口
+《[快猫毁了多少年轻人？](https://www.bilibili.com/video/av498351933/_)》
+
+本项目封装了快猫视频相关接口
+
+如果网站迁移，请自行修改源码中的domain变量
 
 如果您喜欢本项目，欢迎Star/Fork~ QwQ
 
