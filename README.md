@@ -1,5 +1,5 @@
 # km-python
-《[快猫毁了多少年轻人？](https://www.bilibili.com/video/av498351933/_)》
+《[快猫毁了多少年轻人？](https://www.bilibili.com/video/av498351933/)》
 
 本项目封装了快猫视频相关接口
 
