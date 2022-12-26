@@ -3,12 +3,12 @@ import requests,json
 
 class comment:
   def __init__(self,uid,uname,time,floor,text):
-    self.uid=uid
-    self.uname=uname
-    self.time=time
-    self.floor=floor
-    self.text=text
-    self.reply=list()
+    self.uid=uid      #用户id
+    self.uname=uname  #用户昵称
+    self.time=time    #发布时间
+    self.floor=floor  #楼层
+    self.text=text    #内容
+    self.reply=list() #回复（未完成）
   def set_reply():
     pass
 
